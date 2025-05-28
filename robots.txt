@@ -3,4 +3,3 @@ Disallow: /admin/
 Allow: /
 
 Sitemap: https://ssongnara.com/sitemap.xml
-Add robots.txt for ssongnara.com SEO
