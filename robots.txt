@@ -12,3 +12,4 @@ Sitemap: https://ssongnara.com/sitemap.xml
 
 User-agent: bingbot
 Crawl-delay: 20
+Update robots.txt with site map info
