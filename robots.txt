@@ -1,5 +1,14 @@
 User-agent: *
-Disallow: /admin/
+Disallow: /guestbook
+Disallow: /m/guestbook
+Disallow: /manage
+Disallow: /owner
+Disallow: /admin
+Disallow: /search
+Disallow: /m/search
 Allow: /
 
 Sitemap: https://ssongnara.com/sitemap.xml
+
+User-agent: bingbot
+Crawl-delay: 20
