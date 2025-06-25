@@ -6,9 +6,9 @@ Disallow: /owner
 Disallow: /admin
 Disallow: /search
 Disallow: /m/search
-Allow:
 
 Sitemap: https://ssongnara.com/sitemap.xml
+Sitemap: https://pages.ssongnara.com/sitemap.xml
 
 User-agent: bingbot
 Crawl-delay: 20
