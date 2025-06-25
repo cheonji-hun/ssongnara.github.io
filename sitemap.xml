@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- robots.txt 위치 안내 -->
   <url>
     <loc>https://pages.ssongnara.com/robots.txt</loc>
     <lastmod>2025-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- 필요시 더 추가 -->
-</urlset>
 
   <!-- 대표 콘텐츠: 예식장 후기 -->
   <url>
@@ -43,4 +43,5 @@
     <lastmod>2025-05-26</lastmod>
     <priority>0.7</priority>
   </url>
+
 </urlset>
