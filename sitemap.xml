@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <!-- robots.txt -->
   <url>
     <loc>https://pages.ssongnara.com/robots.txt</loc>
@@ -8,38 +9,39 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- 예식장 후기 -->
+  <!-- 대표 콘텐츠: 예식장 후기 -->
   <url>
     <loc>https://ssongnara.com/entry/2025-대구-예식장-예약-후기-피로연-식사부터-스드메까지-총정리</loc>
     <lastmod>2025-05-24</lastmod>
     <priority>0.9</priority>
   </url>
 
-  <!-- 대선 공약 분석 -->
+  <!-- 대표 콘텐츠: 대선 경제공약 분석 -->
   <url>
     <loc>https://ssongnara.com/entry/2025-대선-경제공약-한눈에-비교-후보별-투자-수혜-산업-완전-정리</loc>
     <lastmod>2025-05-22</lastmod>
     <priority>0.8</priority>
   </url>
 
-  <!-- 웨딩박람회 -->
+  <!-- 고수익 키워드: 웨딩박람회 안내 -->
   <url>
     <loc>https://ssongnara.com/entry/웨딩박람회</loc>
     <lastmod>2025-05-23</lastmod>
     <priority>0.8</priority>
   </url>
 
-  <!-- Gemini vs ChatGPT -->
+  <!-- 내부 링크 허브 콘텐츠: Gemini vs ChatGPT -->
   <url>
     <loc>https://ssongnara.com/entry/Gemini-vs-ChatGPT-AI-검색-승자는-누구인가</loc>
     <lastmod>2025-05-26</lastmod>
     <priority>0.7</priority>
   </url>
 
-  <!-- 로보어드바이저 -->
+  <!-- 트래픽 유도 콘텐츠: 로보어드바이저 비교 -->
   <url>
     <loc>https://ssongnara.com/entry/로보어드바이저-사용-비교-–-초보자를-위한-자동투자-길잡이</loc>
     <lastmod>2025-05-26</lastmod>
     <priority>0.7</priority>
   </url>
+
 </urlset>
