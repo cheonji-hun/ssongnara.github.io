@@ -11,4 +11,4 @@ Sitemap: https://ssongnara.com/sitemap.xml
 Sitemap: https://pages.ssongnara.com/sitemap.xml
 
 User-agent: bingbot
-Crawl-delay: 20
+Crawl-delay: 10
