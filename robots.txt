@@ -6,7 +6,7 @@ Disallow: /owner
 Disallow: /admin
 Disallow: /search
 Disallow: /m/search
-Allow: /
+Allow:
 
 Sitemap: https://ssongnara.com/sitemap.xml
 
